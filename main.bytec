@@ -1,0 +1,10 @@
+JMP end
+
+: add
+ARG a 1
+ARG b 2
+ADD a b
+RET a
+
+: end
+
